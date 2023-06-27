@@ -45,27 +45,6 @@ m
 folium.Marker(location=[24.7762416,125.2976561],popup='エディオン 宮古島シティ店　　　　　　　　　　　　',icon=folium.Icon(color="blue")).add_to(m)
 m
 
-folium.Marker(location=[26.2294838,127.6910491],popup='ベスト電器 イオン天久店　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
-folium.Marker(location=[26.3389351,127.8452202],popup='ベスト電器 イオン具志川店　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
-folium.Marker(location=[26.3148251,127.7570621],popup='ベスト電器 イオン北谷店　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
-folium.Marker(location=[26.6098255,127.9846764],popup='ベスト電器 イオン名護店　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
-folium.Marker(location=[26.1970281,127.6657458],popup='ベスト電器 イオン那覇店　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
-folium.Marker(location=[26.2012257,127.7382873],popup='ベスト電器 イオン南風原店　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
-folium.Marker(location=[26.2521893,127.736633],popup='ベスト電器 西原インター店　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
 folium.Marker(location=[26.1731328,127.7441406],popup='ヤマダデンキ テックランドイオンタウン南城大里店　　　　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
@@ -100,6 +79,27 @@ folium.Marker(location=[26.2092762,127.6506199],popup='ビックカメラ 那覇
 m
 
 folium.Marker(location=[26.3150914,127.7944845],popup='イオンモバイル ライカム店　　　　　　　　　　　　',icon=folium.Icon(color="purple")).add_to(m)
+m
+
+folium.Marker(location=[26.2294838,127.6910491],popup='ベスト電器 イオン天久店　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
+m
+
+folium.Marker(location=[26.3389351,127.8452202],popup='ベスト電器 イオン具志川店　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
+m
+
+folium.Marker(location=[26.3148251,127.7570621],popup='ベスト電器 イオン北谷店　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
+m
+
+folium.Marker(location=[26.6098255,127.9846764],popup='ベスト電器 イオン名護店　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
+m
+
+folium.Marker(location=[26.1970281,127.6657458],popup='ベスト電器 イオン那覇店　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
+m
+
+folium.Marker(location=[26.2012257,127.7382873],popup='ベスト電器 イオン南風原店　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
+m
+
+folium.Marker(location=[26.2521893,127.736633],popup='ベスト電器 西原インター店　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
 folium.Marker(location=[26.3218393,127.7576665],popup='パソコン工房 GOODWILL 北谷店　　　　　　　　　　　　　　',icon=folium.Icon(color="green")).add_to(m)
