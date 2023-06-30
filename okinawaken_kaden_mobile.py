@@ -78,9 +78,6 @@ m
 folium.Marker(location=[26.2092762,127.6506199],popup='ビックカメラ 那覇空港店　　　　　　　　　　　',icon=folium.Icon(color="lightred")).add_to(m)
 m
 
-folium.Marker(location=[26.3150914,127.7944845],popup='イオンモバイル ライカム店　　　　　　　　　　　　',icon=folium.Icon(color="purple")).add_to(m)
-m
-
 folium.Marker(location=[26.2294838,127.6910491],popup='ベスト電器 イオン天久店　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
